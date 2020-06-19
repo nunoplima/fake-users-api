@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Leanne Graham",
+            "address": "Kulas Light, 5, Gwenborough",
+            "status": "Active",
+            "position": "Developer"
+        },
+        {
+            "id": 2,
+            "name": "Ervin Howell",
+            "address": "Victor Plains, 15, Wisokyburgh",
+            "status": "Active",
+            "position": "Tech Lead"
+        },
+        {
+            "id": 3,
+            "name": "Clementine Bauch", 
+            "address": "Douglas Extension, 3, McKenziehaven",
+            "status": "Active",
+            "position": "Dev Ops"
+        }
+    ]
+}
